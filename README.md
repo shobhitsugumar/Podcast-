@@ -79,7 +79,7 @@ Welcome to the Podcast Project! This repository contains the code and assets for
 
 ## Contributing
 
-We welcome contributions! Please follow these steps to contribute:
+We welcome contributions!. Please follow these steps to contribute:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/YourFeature`).
